@@ -8,6 +8,8 @@ Configure and run Rails:
 
 $ bundle install
 
+cd bin
+
 $ rails s
 
 And then, lineman (for Angular):
