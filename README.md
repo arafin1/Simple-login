@@ -7,16 +7,16 @@ Configure and run Rails:
 ==============================
 
 $ bundle install
------------------
+
 $ rails s
 
 And then, lineman (for Angular):
 ==================================
 $ cd frontend
-----------------
+
 $ npm install
-----------------
+
 $ lineman run
----------------
+
 
 
